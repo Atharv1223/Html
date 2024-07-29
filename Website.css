@@ -1,0 +1,128 @@
+.header {
+    text-align: center;
+    font-family:'Source Sans Pro';
+    background-color: green;
+    color: aliceblue;
+}
+.imageover {
+    width: 100%;
+    height: 700px;
+}
+.para {
+    position: absolute;
+  top: 55%;
+  left: 30%;
+  transform: translate(-110%, -50%);
+  color: rgb(169, 169, 42);
+}
+.para2 {
+    position: absolute;
+  top: 65%;
+  left: 34%;
+  transform: translate(-85%, -50%);
+  color: antiquewhite;
+  
+}
+#rectangle {
+    border-radius: 50px;
+    position: absolute;
+    top: 75%;
+    left: 30%;
+    transform: translate(-110%, -50%);
+}
+.lowerimg {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  top: 75%;
+  left: 30%;
+  transform: translate(0%, -200%);
+}
+.lowertext {
+    top: 75%;
+    left: 30%;
+    transform: translate(10%, 10%);
+
+}
+.text1 {
+  font-size: 25px ;
+  top: 75%;
+  left: 30%;
+  transform: translate(60%, -130%);
+}
+.text2 {
+  font-size: 25px ;
+  top: 75%;
+  left: 30%;
+  transform: translate(75%, -260%);
+}
+.p1 {
+  color: #333333; 
+  font-size: 45px;
+  text-align: center;
+  transform: translate(0%, -500%);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.h1 {
+  color: rgb(21, 21, 21);
+  transform: translate(10%, -160%);
+
+}
+.p2 {
+  color: #333333; 
+  font-size: 35px;
+  transform: translate(20%, -700%);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ 
+  
+
+.cam1 {
+  transform: translate(10%, 5%);
+  background-color:aliceblue;
+  width: 300px;
+  height:400px;
+  text-align: center;
+  border-radius: 20px;
+  
+}
+.cam2 {
+  transform: translate(130%, -94%);
+  background-color: aliceblue;
+  width: 300px;
+  height: 400px;
+  text-align: center;
+  border-radius: 20px;
+}
+.cam3 {
+  width: 300px;
+  height: 400px;
+  background-color: aliceblue;
+  text-align: center;
+  transform: translate(250%, -195%);
+  border-radius: 20px;
+}
+.cam4 {
+  width: 300px;
+  height: 400px;
+  background-color: aliceblue;
+  text-align: center;
+  transform: translate(370%, -295%);
+  border-radius: 20px;
+}
+.rectangle2 {
+  transform: translate(310%, -2300%);
+  border-radius: 50px;
+  
+}
+#leftarrow {
+  width: 300px;
+  transform: translate(-30%, -250%);
+}
+#rightarrow {
+  width: 180px;
+  transform: translate(550%, -235%);
+  
+}
+.rec2 {
+  transform: translate(0%, -60%);
+}
